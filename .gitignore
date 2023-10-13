@@ -1,0 +1,7 @@
+node_modules
+.eslintrc.cjs
+package-lock.json
+README.md
+public/
+src/assets/
+src/index.css
