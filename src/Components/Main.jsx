@@ -34,7 +34,6 @@ const handleSearch = async () => {
     }
 
     const data = await response.json();
-    console.log(data);
     setResults(data);
   } catch (err) {
     setResults([]);
