@@ -39,6 +39,22 @@ body {
   color: #242222;
 }
 
+.queried-word {
+  margin-bottom: 0.75rem;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 1.75rem;
+}
+
+.part-of-speech {
+  font-style: italic;
+  padding-left: 0.5rem;
+}
+
+.inner-definition {
+  margin-bottom: 1rem;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background: #242222;
